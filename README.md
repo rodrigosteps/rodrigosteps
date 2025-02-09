@@ -1,7 +1,7 @@
 <h1>Rodrigo Passos </h1>
 
-<h4> Dev e apaixonado por tecnologia, explorando o mundo dos codigos</h4>
-- Linguagens HTML, CSS
+<h4> Dev explorando o mundo dos codigos</h4>
+- Linguagens HTML, CSS </br>
 - Atualmente aprendendo JS
 
 <!--
