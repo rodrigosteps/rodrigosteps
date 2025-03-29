@@ -1,8 +1,8 @@
 <h1>Rodrigo Passos 👣 </h1>
 
-<h4> Dev explorando o mundo dos codigos</h4>
-- Linguagens HTML, CSS </br>
-- Atualmente aprendendo JS
+<h4> Dev explorando o mundo dos codigos </h4>
+  - Linguagens HTML, CSS </br>
+  - Atualmente aprendendo JS
 
 <!--
 **rodrigosteps/rodrigosteps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
