@@ -1,14 +1,14 @@
-<h1 >Rodrigo Passos 👣 </h1>
+<h1 align=center>Rodrigo Passos 👣 </h1>
 
-<h4> Dev explorando o mundo dos codigos </h4>
-  <h2> LINGUAGENS/ LANGUAGES </h2> 
-  <div style="display:flex" style="flex_direction:row">
-  <div style="inline:block_block">
+<h4  align=center> Dev explorando o mundo dos codigos </h4>
+  <h2  align=center > LINGUAGENS/ LANGUAGES </h2> 
+  <div align=center style="display:flex" style="flex_direction:row">
+  <div align=centerstyle="inline:block_block">
             <img alingn="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
             <img alingn="center" width="50" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
          </div>    
-  <h2>APRENDENDO/ LEARNING</h2> 
-  <div>
+  <h2  align=center>APRENDENDO/ LEARNING</h2> 
+  <div  align=center>
             <img alingn="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
         
 
