@@ -5,6 +5,7 @@
 ![Profile banner - 1](https://github.com/user-attachments/assets/37149ca8-a19f-45a6-9e19-694d741b4701)
 
 
+![FooterWhite](https://github.com/user-attachments/assets/90a05de4-7233-4ade-88cf-83097bf4065b)
 
 </div>
 <!--
