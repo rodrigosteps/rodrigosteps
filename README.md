@@ -4,7 +4,8 @@
 
 <img src="https://github.com/user-attachments/assets/37149ca8-a19f-45a6-9e19-694d741b4701"> </img>
 
-<img  src="https://github.com/user-attachments/assets/90a05de4-7233-4ade-88cf-83097bf4065b"> </img>
+<img width="370" height="auto" alt="FOOTER2" src="https://github.com/user-attachments/assets/75ef00e6-8e8c-48f5-a841-702ed10df3ed" />
+
 
 </div>
 <!--
